@@ -27,16 +27,24 @@ A simple and responsive Weather Application built using HTML, CSS, and JavaScrip
 
 📂 Project Structure
 Weather-App/
+
 │── index.html
+
 │── index.css
+
 │── index.js
+
 
 📌 How It Works
 
 ->User enters a city name.
+
 ->JavaScript captures the input.
+
 ->A request is sent to the OpenWeatherMap API.
+
 ->The API returns live weather data.
+
 ->The application displays:
 ->City & Country
 ->Temperature
